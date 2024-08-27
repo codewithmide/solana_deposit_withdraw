@@ -17,7 +17,6 @@ This project implements a native Solana program that allows users to initialize 
 7. [Testing](#testing)
 8. [Security Considerations](#security-considerations)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Features
 
@@ -133,7 +132,3 @@ This will execute the test suite and verify the program's functionality.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
